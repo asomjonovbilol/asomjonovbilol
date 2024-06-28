@@ -10,7 +10,7 @@
   ⚡ I am a Frontend developer, I develop websites, online
   stores, SRM systems and applications.<br/>
   I learned programming in Najot education using real projects.<a
-   target="_blank" href="https://portfolio-website-bilol.netlify.app/">bilol.uz</a> !
+   target="_blank"[ href="(https://project-portfolio-bilol.netlify.app/)">bilol.uz</a> !
  </div>
  <br/>
  
@@ -21,7 +21,7 @@
   <a href="https://www.linkedin.com/in/bilol-asomjonov-9471422a5/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-   <a href="[https://portfolio-website-bilol.netlify.app/](https://project-portfolio-bilol.netlify.app/)" target="_blank">
+   <a href="[(https://project-portfolio-bilol.netlify.app/)]" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
